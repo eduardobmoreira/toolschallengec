@@ -10,12 +10,12 @@ API de pagamentos para o Tools Challenge C.
 
 Implementar uma API de Pagamentos.
 As operações serão as seguintes:
-Pagamento:
+:::: Pagamento:
 - Solicitação e resposta conforme JSON abaixo
-Estorno:
+:::: Estorno:
 - consulta: por ID
 - retorno: conforme JSON de retorno de estorno
-Consulta:
+:::: Consulta:
 - consulta: todos e por ID
 - retorno: conforme JSON de retorno do pagamento
 
